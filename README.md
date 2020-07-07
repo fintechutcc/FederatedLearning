@@ -5,10 +5,10 @@
 ## Step 1:
 รัน start_xor_data_node.py ด้วยคำสั่ง 
 
-`
-python start_xor_data_node.py --port 8777 --verbose
 
-`
+`python start_xor_data_node.py --port 8777 --verbose`
+
+
 เป็นการเริ่มใช้งาน Data_Node เตรียมพร้อมให้สามารถรับโมเดล ที่จะส่งมาและรันบนนี้ได้ สิ่งที่อาจจะต้องปรับเปลี่ยนในโค้ดคือ IP Address ต้องใช้ IP Address ที่ใช้งานจริง
 
 ## Step 2
